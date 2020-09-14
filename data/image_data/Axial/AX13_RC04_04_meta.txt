@@ -1,0 +1,3 @@
+image,AX13_RC04_04.tif,
+scale factor,1.2406,microns/pixel
+roi area,18754325.781,microns^2
