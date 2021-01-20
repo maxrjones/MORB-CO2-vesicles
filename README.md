@@ -24,7 +24,7 @@ Vesicle textures in submarine lavas have been used to calculate total (pre-erupt
 
 ## Status
 
-This paper is in revision at the Journal of Volcanology and Geothermal Research. Additional code to reproduce the synthetic vesicle and Raman spectroscopy analyses and comparisons between microCT resolutions will be added to this repository prior to resubmission. Comments, questions, or suggestions are appreciated through github issues or via e-mail to Meghan Jones (meghanj@alum.mit.edu)
+This paper is in revision at the Journal of Volcanology and Geothermal Research. Additional code to reproduce the synthetic vesicle and Raman spectroscopy analyses and comparisons between microCT resolutions will be added to this repository prior to resubmission. Comments, questions, or suggestions are appreciated through github issues or via e-mail to Meghan Jones (meghanj [at] alum.mit.edu)
 
 ## Acknowledgments and support 
 
